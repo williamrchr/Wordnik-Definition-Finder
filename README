@@ -1,0 +1,8 @@
+This is a Python program that pulls definitions from a list and outputs them to a text file. 
+There are two versions, one with a GUI, and one with a CLI (command line interface). Choose
+whichever seems most appropriate for you.
+
+To read words from a text file, the following configuration should be used:
+word1,word2,word3
+
+Otherwise, the program will not be able to parse your file and most likely crash.
